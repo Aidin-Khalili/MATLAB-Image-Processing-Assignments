@@ -11,6 +11,10 @@ Image-processing assignments in MATLAB (B.Sc. in Computer Engineering), includin
 | [Assignment7](Assignment7) | Out-of-focus images: inputs and results |
 | [Assignment8](Assignment8) – [Assignment9](Assignment9) | Further image-processing exercises |
 
+## Run
+
+Open MATLAB, change the current folder to the assignment you want, and run its `.m` script.
+
 ## License
 
 Released under the [MIT License](LICENSE): free to use, modify and share with attribution.
